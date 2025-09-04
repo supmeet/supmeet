@@ -3,11 +3,13 @@
 
 <h3 align="left">🚀 <strong>Full Stack & Mobile Application Developer | AI/ML Enthusiast 🤖 | Project Manager | Software Engineer 👨‍💻</strong></h3>
 <ul>
+  <li>🌱 I’m currently pursuing a <strong>Postgraduate Certificate in Artificial Intelligence and Data Science</strong> at Loyalist College, Toronto.</li>
   <li>🔧 Experienced in <strong>Mobile App Development (React Native, Kotlin/Java, iOS Swift, Flutter)</strong>, <strong>Backend & API Development (Django, Flask, Express.js, C#.NET)</strong>, and <strong>AI/ML Integration with Python, TensorFlow, and scikit-learn</strong>.</li>
   <li>💡 Skilled in developing scalable cross-platform mobile applications, robust REST APIs, and integrating business solutions using Microsoft Dynamics 365 and Power Platform (Power Automate, Power Apps, Power BI).</li>
   <li>🛠️ Hands-on expertise with <strong>Databases</strong> (PostgreSQL, MongoDB, SQL Server), <strong>Cloud Services</strong> (Azure, AWS), and <strong>DevOps tools</strong> (CI/CD, Docker, Jenkins, Kubernetes).</li>
   <li>💬 Ask me about <strong>Full-stack development, Mobile solutions, AI-powered systems, and Project Lifecycle Management</strong>.</li>
   <li>📫 How to reach me: <strong>patelmeet3456@gmail.com</strong></li>
+  <li>🌐 Check out my portfolio: <a href="https://meetpatel-806.pages.dev/" target="_blank">meetpatel-806.pages.dev</a></li>
   <li>⚡ Fun fact: <strong>I love combining AI/ML with mobile and web apps to solve real-world problems!</strong></li>
 </ul>
 
