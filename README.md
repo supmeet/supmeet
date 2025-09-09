@@ -3,7 +3,6 @@
 
 <h3 align="left">🚀 <strong>Full Stack & Mobile Application Developer | AI/ML Enthusiast 🤖 | Project Manager | Software Engineer 👨‍💻</strong></h3>
 <ul>
-  <li>🌱 I’m currently pursuing a <strong>Postgraduate Certificate in Artificial Intelligence and Data Science</strong> at Loyalist College, Toronto.</li>
   <li>🔧 Experienced in <strong>Mobile App Development (React Native, Kotlin/Java, iOS Swift, Flutter)</strong>, <strong>Backend & API Development (Django, Flask, Express.js, C#.NET)</strong>, and <strong>AI/ML Integration with Python, TensorFlow, and scikit-learn</strong>.</li>
   <li>💡 Skilled in developing scalable cross-platform mobile applications, robust REST APIs, and integrating business solutions using Microsoft Dynamics 365 and Power Platform (Power Automate, Power Apps, Power BI).</li>
   <li>🛠️ Hands-on expertise with <strong>Databases</strong> (PostgreSQL, MongoDB, SQL Server), <strong>Cloud Services</strong> (Azure, AWS), and <strong>DevOps tools</strong> (CI/CD, Docker, Jenkins, Kubernetes).</li>
